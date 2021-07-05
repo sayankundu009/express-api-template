@@ -1,4 +1,4 @@
-# Express-API-Template 🎁
+# Express-API-Template
 
 Express template for a Node.js RESTful API. Includes sequelize & mysql2, swagger for api documentation, basic jwt authentication
 
